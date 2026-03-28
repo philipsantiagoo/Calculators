@@ -1,29 +1,31 @@
-# Calculadoras
+# Calculators
 
-### 📚 Descrição
-• Repositório de dois progromas sobre calculadoras: uma científica e outra simples.
+Repository containing two calculator programs built in **Python** — a simple and a scientific version.
 
-### 📚 Funcionalidades
-📌 Ambas com design intuitivo e de fácil manuseio <br>
-📌 Calculadora simples: faz as operações básicas como adição, subtração, multiplicação, divisão, potenciação e divisão inteira <br>
+## Features
 
-📌 Calculadora Científica: realiza todas as funcionalidades da calculadora simples, com adicionais como: seno, cosseno e tangente; fatorial; logartimo; raiz quadrada e pi <br>
+**Simple Calculator**
+- Basic operations: addition, subtraction, multiplication, division, exponentiation, and integer division
 
+**Scientific Calculator**
+- Everything in the simple version, plus: sine, cosine, tangent, factorial, logarithm, square root, and π
 
-### 📚 Tecnologias Utilizadas
-• Python <br>
-• **Bibliotecas Utilizadas**: 
-1. tkinter
-2. flet
+## Technologies
 
-#
+- Python
+- Libraries: `tkinter` (simple), `flet` (scientific)
 
-### 📚 Execução
- • Acesse o link (Simple Caculator): https://drive.google.com/file/d/1AKlZmYf40cL9REZLbOhg4U58gq9kf8A7/view?usp=sharing <br>
- • Acesse o link (Scientific Calculator): https://drive.google.com/file/d/1r2Fk88aUEeLP3sonbcElI_HU4KgyOSnW/view?usp=sharing <br>
- • Baixe o programa <br>
- • Utilize sem problemas!
- ### 📚 Informações
-• Dependendo do computador ou notebook, o Windows pode exibir um aviso impedindo a instalação do programa. Nesse caso, basta clicar em 'Mais informações' e, em seguida, em 'Executar assim mesmo'. O programa funcionará normalmente.
+## Download & Run
 
-#
+| Calculator | Link |
+|---|---|
+| Simple | [Download](https://drive.google.com/file/d/1AKlZmYf40cL9REZLbOhg4U58gq9kf8A7/view?usp=sharing) |
+| Scientific | [Download](https://drive.google.com/file/d/1r2Fk88aUEeLP3sonbcElI_HU4KgyOSnW/view?usp=sharing) |
+
+Download the file and run the executable directly — no installation required.
+
+> **Note:** Windows may display a security warning when running the program. If that happens, click **More info** → **Run anyway**. The program will work normally.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
